@@ -1,2 +1,2 @@
 # hello-world
-just another new repositry ba heschreg
+just another new repositry by heschreg
